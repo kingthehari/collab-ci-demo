@@ -23,7 +23,7 @@ To run this project locally:
 
 1.  Clone the repository:
     ```
-    git clone <repository-url>
+    git clone 
     ```
 2.  Navigate to the project directory:
     ```
